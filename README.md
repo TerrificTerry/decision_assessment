@@ -1,3 +1,6 @@
+### Tianshu Yin (tyin46)
+
+
 Setting Up an environment for this workbook is not easy. It is fairly involved and may vary a bit between OS'es. Colab unfortunately does not work for this due to the specific environment we need to get this to work.
 
 What I suggest is the following set of steps which has successfully worked on Mac OS X (version 16), Ubuntu 22.04 and Windows 11 as of December 2024.
